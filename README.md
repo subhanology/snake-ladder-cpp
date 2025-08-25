@@ -3,7 +3,7 @@ A simple console-based Snake and Ladder game built in C++ for two players. Begin
 
 It showcases the use of **basic programming concepts** like control structures, loops, functions, and arrays — without relying on any GUI library. Just good old console output! ✨  
 
----
+
 
 ## 📖 About the Project
 I made this project as part of learning the **fundamentals of programming**. The idea was to implement a classic board game (Snake & Ladder) using only the basics of C++.  
@@ -12,7 +12,7 @@ I made this project as part of learning the **fundamentals of programming**. The
 - Focus on clean logic and step-by-step learning.  
 - Showcases how beginners can combine small concepts into a working project.  
 
----
+
 
 ## 🕹️ How to Play
 - The game is for **two players**.  
@@ -22,7 +22,7 @@ I made this project as part of learning the **fundamentals of programming**. The
 - Landing on a ladder’s bottom takes you **up** 🪜.  
 - The board is displayed in the console after every turn.  
 
----
+
 
 🛠️ Features
 - Console-based board display with numbers.
@@ -31,7 +31,6 @@ I made this project as part of learning the **fundamentals of programming**. The
 - Snakes and ladders functionality.
 - Prevents moves beyond position 100.
 
----
 
 🌱 Future Improvements
 - Add more snakes and ladders
